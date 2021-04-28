@@ -15,6 +15,13 @@ namespace CollaborativeCalculator
         public static int Subtract(int one, int two)
         {
             return one - two;
+        public static int Multiply(int a, int b)
+        {
+            return a * b;
+        }
+        public static int Divide(int a, int b)
+        {
+            return a / b;
         }
     }
 }
