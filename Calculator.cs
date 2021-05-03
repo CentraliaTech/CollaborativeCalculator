@@ -11,7 +11,8 @@ namespace CollaborativeCalculator
         public static int Add(int one, int two)
         {
             int answer = one + two;
-            string change = "wutup";
+            string change = "wutuup";
+            change = "suh, dude";
             return answer;
         }
         public static int Subtract(int one, int two)
